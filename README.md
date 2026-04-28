@@ -23,14 +23,14 @@ Project Structure
 sentiment-pipeline
 │
 ├── app/
-│   └── real_tweets.csv        # dataset (ignored in repo)
+│   └── real_tweets.csv        
 │
 ├── configs/
 │
 ├── models/
 │   └── sentiment_logreg_model
 │
-├── metrics.json               # evaluation metrics
+├── metrics.json   
 │
 ├── docker-compose.yml
 │
