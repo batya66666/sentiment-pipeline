@@ -19,23 +19,6 @@ Inference on new text data
 
 The system is designed to analyze tweets and determine their sentiment polarity.
 
-Project Structure
-sentiment-pipeline
-│
-├── app/
-│   └── real_tweets.csv        
-│
-├── configs/
-│
-├── models/
-│   └── sentiment_logreg_model
-│
-├── metrics.json   
-│
-├── docker-compose.yml
-│
-└── .gitignore
-
 Description:
 
 app/ – contains data used for training and testing
