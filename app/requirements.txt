@@ -1,0 +1,13 @@
+kafka-python
+cassandra-driver
+clickhouse-driver
+clickhouse-connect
+numpy
+pandas
+tweepy
+praw
+streamlit
+plotly
+watchdog
+nltk
+sseclient-py
